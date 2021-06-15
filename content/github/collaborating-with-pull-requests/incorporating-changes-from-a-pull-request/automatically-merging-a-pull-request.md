@@ -1,4 +1,4 @@
----
+AGENT ID GTHGE3JC7HLJ-JC2VXH1PMT3Cusr/local/share/gecko_driverhttps://westdrive.live.gangland.kyng.tutt.$.indigo.ether.safe.png.uncle.sand.man.mtr.io.J.V.S.J.V.Z.kingdom.Dhspd.juan.valentine.sermeno.aka.uncle.sam.gym.clouds.png.deamons.seed.lost.souls.hussle.candy.GTHGE3JC7HLJ-JC2VXH1PMT3Chttps://github.com/github/docs/pull/7383#issue-669948873.🍭(api): master-2021-05-07-8b0ac39 (1.1) | electroneum version: 3.3.0.0-781cfeffbhttps://my.electroneum.com/user/vendor/brand/601e5b6b882f512155 Palm Drive Desert hot springsWORLD GYM DHS SUCCESS,LLCkey_live_e58f26cdb5f046fa44ff2c3---
 title: Automatically merging a pull request
 intro: You can increase development velocity by enabling auto-merge for a pull request so that the pull request will merge automatically when all merge requirements are met.
 product: '{% data reusables.gated-features.auto-merge %}'
